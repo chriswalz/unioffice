@@ -96,7 +96,7 @@ DOCX/XLSX/PPTX.
 
 - [Simple Text Boxes](https://github.com/unidoc/unioffice/tree/master/_examples/presentation/simple) Simple text boxes and shapes
 - [Images](https://github.com/unidoc/unioffice/tree/master/_examples/presentation/image) Simple image insertion
-- [Template](https://github.com/unidoc/unioffice/tree/master/_examples/presentation/use-template/simple) Creating a presentation from a template
+- [Template](https://github.com/unidoc/unioffice/tree/master/_examples/presentation/use-template) Creating a presentation from a template
 
 ## Raw Types ##
 
